@@ -1,0 +1,183 @@
+body{
+  background-color: #EEECDA
+  ;
+}
+.uppermost{
+  background-color: black;
+  height:20px;
+  text-align: right;
+  padding-right: 20px;
+ }
+  h6{
+    color: white;
+  }
+
+.upperpart{
+  background-color: black;
+  width: 100%;
+  text-align: center;
+  height: 145px;
+
+}
+.middlepart{
+  background-color: white;
+  width: 100%;
+  height: 36px;
+  text-align: center;
+   padding-top: 0px;
+
+   padding-right: 15px;
+}
+
+h4{
+  color: white;
+  text-decoration-style: double;
+}
+
+h3{
+  color: #2196F3;
+    border-width: medium;
+}
+h2{
+  color: #2196F3;
+    border-width: medium;
+}
+
+.divforpara{
+  background-color: #CCF6CB;
+  border-bottom: 100px;
+}
+
+.button2{
+  width:14%;
+  height: 35px;
+  border-width: medium;
+  background-color: #2196F3;
+  border-radius: 3px;
+  text-align: center;
+  align-items:baseline;
+
+}
+form.example button {
+
+  width: 5%;
+  padding: 2px;
+  background: #2196F3;
+  height:39px;
+}
+form.example input[type=text] {
+  padding: 10px;
+
+  border: 1px solid grey;
+
+  width: 50%;
+  background: #f1f1f1;
+}
+.bottomtemplate{
+  background-color: black;
+  width:100%;
+  height:180px;
+  padding-top: 0px;
+  border-top: 0px;
+  margin-top: 0px;
+  border-color: black;
+  padding:0px;
+  margin: 0px;
+
+}
+li{
+  color:white;
+}
+.tablephone{
+  width: 70%;
+  position: static;
+  padding-right: 100px;
+}
+.tableabc{
+  position: static;
+}
+.tablephone{
+  width: 90%;
+  text-align: center;
+}
+.mobilerange{
+width: 95%;
+height:600px;
+background-color: #CCF6CB;
+
+}
+.button619{
+  color: red;
+  height: 35px;
+  border-width: medium;
+  background-color: white;
+  text-decoration: underline;
+}
+.secondlast{
+  height: 60px;
+  width:100%;
+  background-color: grey;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+  border-color: black;
+  padding:0px;
+  margin:0px;
+
+}
+
+.thirdlast{
+  width: 200px;
+  height: 20px;
+  text-align:left;
+  padding-left: 50px;
+  padding-top: 5px;
+}
+.page2buttons{
+  background-color:#EEECDA;
+  height:30px;
+  width: 220px;
+}
+.page2morephone{
+  width: 60px;
+}
+.page2button2{
+  width:14%;
+  height: 35px;
+  border-width: medium;
+  background-color: #2196F3;
+  border-radius: 3px;
+  text-align: center;
+  align-items:baseline;
+
+}
+.page3body{
+  width: 100%;
+  height: 170px;
+  background-color: #CCF6CB;
+}
+.bottomtemplatepage3{
+  background-color: black;
+  width:100%;
+  height:240px;
+  padding-top: 0px;
+  border-top: 0px;
+  margin-top: 0px;
+  border-color: black;
+  padding:0px;
+  margin: 0px;
+}
+.page4upperbody{
+  width: 100%;
+  height:60px;
+  background-color: #CCF6CB;
+}
+.page7buttons{
+  width:18%;
+  height: 35px;
+  border-width: medium;
+  background-color: #2196F3;
+  border-radius: 3px;
+  text-align: center;
+  align-items:baseline;
+
+}
