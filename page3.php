@@ -1,0 +1,435 @@
+<!DOCTYPE html>                                               
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Top 10</title>
+
+<!--Header tag-->
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela+Round">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+  
+<link rel="stylesheet" href="miniproject.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+
+<!--Footer tag-->
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="footerstyle.css" rel="stylesheet">
+
+<!--NewsLetter tag-->
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="newsetterstyle.css" rel="stylesheet">
+
+
+ 
+
+
+
+</style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a href="#" class="navbar-brand">IP<b>Project</b></a>  		
+
+    <!-- Collection of nav links, forms, and other content for toggling -->
+
+    <div id="navbarCollapse" class="collapse navbar-collapse justify-content-start">
+      <div class="navbar-nav">
+        <a href="miniprj.php" class="nav-item nav-link">Home</a>
+        <a href="page2.php" class="nav-item nav-link">Mobiles & Tablets</a>			
+        <a href="page3.php" class="nav-item nav-link active">Top 10</a>
+        <a href="page4.php" class="nav-item nav-link">Best</a>
+        <a href="page5.php" class="nav-item nav-link">News & Reviews</a>
+        <a href="page6.php" class="nav-item nav-link">Laptops</a>
+        <a href="page7.php" class="nav-item nav-link">Latest Items</a>
+        <a href="page8.php" class="nav-item nav-link">Our Team</a>
+
+      </div>
+      <form class="navbar-form form-inline">
+        <div class="input-group search-box">								
+          <input type="text" id="search" class="form-control" placeholder="Search here...">
+          <div class="input-group-append">
+            <span class="input-group-text">
+              <i class="material-icons">&#xE8B6;</i>
+            </span>
+          </div>
+        </div>
+      </form>
+      <div class="navbar-nav ml-auto action-buttons">
+        <div class="nav-item dropdown">
+          <a href="login/login.php" data-toggle="action-buttons" class="nav-link dropdown-toggle mr-4">Login</a>
+        </div>
+      </div>
+
+    </div>
+    <div class="navbar-nav ml-auto action-buttons">
+      <a href="signup/regis.php" data-toggle="action-buttons" class="nav-link dropdown-toggle mr-4">Sign up</a>
+      </div>
+    </div>
+    </nav>
+    </body>
+
+
+    <div class="page3body">
+      <h2><strong>Top 10 mobile phones in India</strong></h2>
+      <article >
+        The top 10 mobile phones available in India across the price ranges offer powerful performance but are also capable of taking brilliant pictures that can even rival professional cameras. With the best 10 smartphones in India, not only do you get cutting-edge designs like the Infinity Displays on the Samsung Galaxy flagships but also reliable and user-friendly offerings like the Apple iPhone. With the best 10 handsets in India, you get top-of-the-line processors from the likes of Qualcomm, Huawei, Samsung, and Apple. This list also includes the best value-for-money handsets in India, offered by brands like Xiaomi, OnePlus, and more. Not to mention that every offering on our list of top 10 mobiles in India is a looker in its own right. Whether you are interested in best camera smartphones like the Google Pixel or best-in-class specs, you can surely find the best option for you from this list.</p>
+      </article>
+    </div>
+      <table class="table2upper" border=1 width=100% >
+        <table border=1 width=100% height=100px>
+          <p>Samsung Galaxy Note 20 Ultra 5G</p>
+          <img src="https://www.91-img.com/pictures/139502-v3-samsung-galaxy-note-20-ultra-5g-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:   Samsung did not hold anything back with Galaxy Note20 Ultra. As you might expect from the highest-end flagship from the brand, you get the best possible features you can find on an Android phone in 2020 with the Note20 Ultra. The handset offers up to 120Hz display refresh rate, top-of-the-line processor, and ample memory to name a few. You are also treated to a premium design and great cameras that are capable of capturing some brilliant clicks in any lighting situation. Notably, the S Pen is better than ever too.</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.9 inches (17.53 cm)494 PPI, <br> Dynamic AMOLED120 Hz Refresh Rate</td>
+            <td>108 MP + 12 MP + 12 MP Triple Primary CamerasLED Flash <br>10 MP Front Camera</td>
+            <td>4500 mAhFast ChargingUSB Type-C Port</td>
+            <td>
+
+      Height		164.8 mm
+      Width		77.2 mm
+      Thickness		8.1 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Apple iPhone 11 Pro Max</p>
+          <img src="https://www.91-img.com/pictures/135857-v3-apple-iphone-11-pro-max-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:  The latest and the greatest iPhone from Apple comes with such horsepower that even PCs can start sweating at this point. Although everybody expected Apple to include some standout pathbreaking features with the new iPhones, the iPhone Pro Max was launched with key improvements across the board. The handset comes with an improved display, battery life, and even camera performance. There were several doubts raised last year over the brand's claims to be the best in optics but with iPhone Pro Max, Apple truly managed to deliver a knockout punch to the critics</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.5 inches (16.51 cm)
+456 PPI, OLED</td>
+            <td>12 MP + 12 MP + 12 MP Triple Primary Cameras
+Quad LED True Tone Flash <br>
+12 MP Front Camera</td>
+            <td>3969 mAh
+Fast Charging
+Lightning Port</td>
+            <td>
+
+              Height		158 mm
+      Width		77.8 mm
+      Thickness		8.1 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Samsung Galaxy S20 Plus</p>
+          <img src="https://www.91-img.com/pictures/137636-v3-samsung-galaxy-s20-plus-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:  Samsung's Galaxy S series flagship phone from 2020 comes with the high-end industry features, including a display with 120Hz refresh rate. As you might expect with Samsung's expertise in displays, the S20 Plus comes with one of the best panels ever seen on a smartphone. Along with this, you get the best chipset on any Android phone, a massive battery backup, extremely capable camera setup, and a punch-hole design. If you are going for an Android phone, you cannot go wrong with this one.</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.7 inches (17.02 cm)
+524 PPI, Dynamic AMOLED <br>
+120 Hz Refresh Rate</td>
+            <td>12 MP + 64 MP + 12 MP Triple Primary Cameras
+LED Flash <br>
+10 MP Front Camera</td>
+            <td>4500 mAh
+Fast Charging
+USB Type-C Port</td>
+            <td>
+
+
+Height		161.9 mm
+Width		73.7 mm
+Thickness		7.8 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Apple iPhone 11</p>
+          <img src="https://www.91-img.com/pictures/132396-v8-apple-iphone-xi-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:  Probably the most popular iPhone model of recent times, the iPhone 11 doesn't dig as deep a hole in your pocket as some of the recent flagships from the brand have. The iPhone 11 comes with dual rear cameras and is one of the most capable camera smartphones available in the market. If you are not interested in clicking pictures, no worries, the handset ships with A13 Bionic chipset, which is the most powerful mobile chipset available in the industry right now. The phone offers a great battery life and a great display quality too. On the software side, the phone delivers like a true champ too</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.1 inches (15.49 cm)
+324 PPI, IPS LCD <br>
+60 Hz Refresh Rate</td>
+            <td>12 MP + 12 MP Dual Primary Cameras
+Quad LED True Tone Flash <br>
+12 MP Front Camera</td>
+            <td>3110 mAh
+Fast Charging
+Lightning Port</td>
+            <td>
+
+              Height		150.9 mm
+              Width		75.7 mm
+              Thickness		8.3 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>OnePlus 8 Pro</p>
+          <img src="https://www.91-img.com/pictures/136164-v6-oneplus-8-pro-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:  It should hardly come as a surprise that the latest and greatest phone from OnePlus actually makes this list. The brand has been growing quickly ever since its launch and its latest phone offers a high refresh rate display, top-of-the-line processor, premium design, and great software. There are many phones that feature great hardware but software usually bogs down the package but with OnePlus, you get the best software experience on an Android phone, barring Pixel handsets</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.78 inches (17.22 cm)
+513 PPI, Fluid AMOLED <br>
+
+
+120 Hz Refresh Rate</td>
+            <td>48 + 48 + 8 + 5 MP Quad Primary Cameras
+Dual LED Flash <br>
+16 MP Front Camera</td>
+            <td>4510 mAh
+Warp Charging
+USB Type-C Port</td>
+            <td>
+
+
+  Height		165.3 mm
+  Width		74.3 mm
+  Thickness		8.5 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Xiaomi Mi 10</p>
+          <img src="https://www.91-img.com/pictures/136181-v9-xiaomi-mi-10-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:  Xiaomi's flagship handset comes with a modern design, 90Hz display refresh rate, and a flagship-grade processor. You also get good battery backup. However, the most impressive aspect about this phone is the camera department. The handset offers cameras that can take detailed pictures that can rival those taken from most other premium end smartphones. If you have used MIUI before, you'll feel right at home but with an even less intrusive interface.</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.67 inches (16.94 cm)
+386 PPI, AMOLED <br>
+90 Hz Refresh Rate</td>
+            <td>108 + 13 + 2 + 2 MP Quad Primary Cameras
+Dual-color LED Flash <br>
+20 MP Front Camera</td>
+            <td>4780 mAh
+Quick Charging 4.0
+USB Type-C Port</td>
+            <td>
+
+              Height		162.6 mm
+              Width		74.8 mm
+              Thickness		8.9 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Huawei P30 Pro</p>
+          <img src="https://www.91-img.com/pictures/131928-v10-huawei-p30-pro-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:   Huawei P30 Pro turned out to be the unlikely contender that displaced iPhone XS Max from the top spot in this list. The new handset from Huawei comes with incredible features like 50x zoom, reverse charging, and excellent low-light imaging capabilities. Arguably the best-looking smartphone in the market, the P30 Pro comes with a quad-camera setup that allows it to produce pictures that can, at times, rival DSLR cameras as well. Huawei’s P30 Pro is the best Android handset to come in a very long time and offers good performance on all fronts</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td> 6.47 inches (16.43 cm)
+398 PPI, OLED</td>
+            <td>40 MP + 20 MP + 8 MP Triple Primary Cameras
+Dual-color LED Flash <br>
+32 MP Front Camera</td>
+            <td>4200 mAh
+Super Charging
+USB Type-C Port</td>
+            <td>
+
+              Height		158 mm
+  Width		73.4 mm
+  Thickness		8.4 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>OnePlus 7T</p>
+          <img src="https://www.91-img.com/pictures/135637-v5-oneplus-7t-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment:  OnePlus has the habit of launching flagship-killer phones and although the brand is itself getting good competition off-late, there is no denying that its latest offering, i.e. OnePlus 7T, is one of the best handsets to launch in 2019. When you consider that OnePlus 7T comes with a 90Hz display, 30W fast charging, the top-of-the-line chipset, and a premium design, at a much lower price point than most flagships, you'll have to ponder over the thought of spending a premium for other handsets in the market and the additional value they bring along</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>6.55 inches (16.64 cm)
+402 PPI, Fluid AMOLED <br>
+90 Hz Refresh Rate</td>
+            <td>48 MP + 16 MP + 12 MP Triple Primary Cameras
+Dual LED Flash <br>
+16 MP Front Camera</td>
+            <td>3800 mAh
+Warp Charging
+USB Type-C Port</td>
+            <td>
+
+
+Height		160.9 mm
+Width		74.4 mm
+Thickness		8.1 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Realme X2 Pro</p>
+          <img src="https://www.91-img.com/pictures/136081-v5-realme-x2-pro-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment: When a handset offers the top-of-the-line chipset available in the market for half the price of most flagships, there is little room left for nitpicking. Realme X2 Pro doesn't just feature a great processor but offers an extremely capable camera setup, headlined by a whopping 64MP camera sensor. The top features don't end here as the flagship from Realme comes with a 90Hz display, which provides a butter-smooth user experience. It won't be wrong to say that Realme has gained the reputation of new flagship killer in the market with Realme X2 Pro.</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>
+6.5 inches (16.51 cm)
+405 PPI, Super AMOLED <br>
+90 Hz Refresh Rate</td>
+            <td>
+64 + 13 + 8 + 2 MP Quad Primary Cameras
+Dual LED Flash <br>
+16 MP Front Camera</td>
+            <td>4000 mAh
+VOOC Charging
+USB Type-C Port</td>
+            <td>
+
+              Height		161 mm
+  Width		75.7 mm
+  Thickness		8.7 mm</td>
+          </tr>
+        </table>
+        <br><br>
+        <table border=1 width=100% height=100px>
+          <p>Realme X3 SuperZoom Edition</p>
+          <img src="https://www.91-img.com/pictures/138409-v4-realme-x3-superzoom-edition-mobile-phone-medium-1.jpg?tr=q-60" alt="phone">
+          <button type="button" name="button" class="page2buttons">View full specifications</button>
+          <p>Expert comment: Realme X3 SuperZoom is one of the most affordable phones available in the market that can claim to offer flagship-grade performance. As the name suggests, the handset offers great zooming functionality. You also get a premium design with the phone and a decent display. Even if you are not interested in camera performance, which is one of the strong aspects of this phone, this is still a great buy for an overall package</p>
+          <tr>
+            <td><strong>Display</strong></td>
+            <td><strong>Camera</strong></td>
+            <td><strong>Battery</strong></td>
+            <td><strong>Design</strong></td>
+          </tr>
+          <tr>
+            <td>
+
+              6.6 inches (16.76 cm)
+              399 PPI, IPS LCD
+              120 Hz Refresh Rate</td>
+            <td>
+
+              64 + 8 + 8 + 2 MP Quad Primary Cameras
+              LED Flash <br>
+              32 MP + 8 MP Dual Front</td>
+            <td>4200 mAh
+Super Dart Charging
+USB Type-C Port</td>
+            <td>
+
+
+Height		163.8 mm
+Width		75.8 mm
+Thickness		8.9 mm</td>
+          </tr>
+        </table>
+      </table>
+
+
+      <section class="newsletter">
+    <div class="container">
+    <div class="row">
+    <div class="col-sm-12">
+      <div class="content">
+        <h2>Subscribe to our TechNews </h2>
+      <div class="input-group">
+             <input type="email" class="form-control" placeholder="Enter your email">
+             <span class="input-group-btn">
+             <button class="btn" type="submit">Subscribe Now</button>
+             </span>
+              </div>
+      </div>
+    </div>
+    </div>
+    </div>
+    </section>
+  <!-- Footer -->
+
+	<section id="footer">
+		<div class="container">
+      <a href="footerstyle.css" rel="stylesheet">
+			<div class="row text-center text-xs-center text-sm-left text-md-left">
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<h5>Quick links</h5>
+					<ul class="list-unstyled quick-links">
+						<li><a href="miniprj.html"><i class="fa fa-angle-double-right"></i>Home</a></li>
+						<li><a href="page8.html"><i class="fa fa-angle-double-right"></i>About</a></li>
+					</ul>
+				</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+					<p><u><a href="miniprj.html">TechBUZZ</a></u> is a technical website which helps users to buy and compare latest electronic devices</p>
+					<p class="h6">© All right Reversed.
+				<hr>
+      </div>
+    </a>	
+		</div>
+	</section>
+	<!-- ./Footer -->
+
+
+  </body>
